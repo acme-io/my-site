@@ -28,6 +28,7 @@ export default class Index extends React.PureComponent {
             />
           </svg>
         </div>
+
         <style jsx>{`
           :global(html) {
             margin: 0;
