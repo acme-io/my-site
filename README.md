@@ -1,3 +1,3 @@
 # my-site
 
-This is a test project used for testing deployment.
+This is a test project for testing.
