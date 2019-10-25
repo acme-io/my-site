@@ -1,3 +1,3 @@
 # my-site
 
-This is a test project.
+This is a test project used for testing
