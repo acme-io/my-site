@@ -34,7 +34,7 @@ export default class Index extends React.PureComponent {
             margin: 0;
           }
           :global(body) {
-            background-color: #222228;
+            background-color: #000;
             color: #fff;
           }
 
